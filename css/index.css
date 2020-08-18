@@ -47,7 +47,7 @@ iframe {
 }
 
 li {
-    list-style: none;
+    list-style: circle;
 }
 
 .block {
@@ -116,7 +116,7 @@ footer {
 
 .main-t {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 /* social icons */
