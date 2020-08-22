@@ -158,3 +158,8 @@ footer {
     text-align: center;
     margin: 2px 4px;
 }
+
+#new {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
